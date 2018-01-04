@@ -11,7 +11,7 @@
  *
  * ================================================================ */
 
-// We are forking this temporarily to resolve
+// We are forking this temporarily to resolve.
 // https://github.com/facebookincubator/create-react-app/issues/302.
 
 // We can replace this fork with `detect-port` package when this is merged:
